@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple assets management for minimal dashboard with Docker Compose Drupal.",
   "dependencies": {
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^5.0.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.7",
     "clipboard": "^1",
