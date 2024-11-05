@@ -3,3 +3,4 @@ flask>=1.0.2
 docker>=3.5.0
 apacheconfig>=0.2.7
 python-dotenv>=0.9.1
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
